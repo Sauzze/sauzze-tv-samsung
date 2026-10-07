@@ -1,8 +1,8 @@
 {
-  "version": "1.0.1",
-  "file": "app-1.0.1.js",
-  "bytes": 173610,
-  "crc32": "6214e637",
+  "version": "1.0.2",
+  "file": "app-1.0.2.js",
+  "bytes": 174299,
+  "crc32": "12c7c60c",
   "minBoot": "1",
   "builtAt": "2026-10-07"
 }
