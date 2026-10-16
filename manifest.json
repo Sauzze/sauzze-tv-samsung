@@ -1,8 +1,11 @@
 {
-  "version": "1.0.2",
-  "file": "app-1.0.2.js",
-  "bytes": 174299,
-  "crc32": "12c7c60c",
+  "version": "1.0.3",
+  "file": "app-1.0.3.js",
+  "bytes": 210986,
+  "crc32": "8d1685f7",
   "minBoot": "1",
-  "builtAt": "2026-10-07"
+  "builtAt": "2026-10-16",
+  "sig": "bcl1w8LUDUAVEukPTtKXiVosiKnYbVDDq8tfK4WOz3U0pMMKCLdyU42VmfpZWQbsyl+05F/lSQkURfbtSGUABg==",
+  "revoked": [],
+  "revokedSig": "k8SnjfL+K09ttqXQA/8pT/+SmALsPzk6vDaV9izjYIT3mxCu6UarSM4wipDy0gWXlR1yfLoTfm8aqm4cTMFqAg=="
 }
